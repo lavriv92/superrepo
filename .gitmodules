@@ -1,0 +1,6 @@
+[submodule "ed-platform"]
+	path = ed-platform
+	url = git@github.com:lavriv92/ed-platform.git
+[submodule "ed-platform-backend"]
+	path = ed-platform-backend
+	url = git@github.com:lavriv92/ed-platform-backend.git
